@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="StyleRingTitle">
+        <!--背景色-->
+        <attr name="bgColor_ringTitle" format="color"/>
+        <!--半径-->
+        <attr name="radius_ringTitle" format="dimension"/>
+        <!--文字大小-->
+        <attr name="textSize_ringTitle" format="dimension"/>
+        <!--文字-->
+        <attr name="text_ringTitle" format="string"/>
+    </declare-styleable>
+
+</resources>
